@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.button-group {
+  margin: 20px;
+}
+
+.cat-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  display: inline-block;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
